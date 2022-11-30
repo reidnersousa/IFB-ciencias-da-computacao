@@ -36,7 +36,7 @@
 |:---------:|------------|
 |<ul><li> - [x] </li></ul> | [Banco de Dados 1]
 |<ul><li> - [ ] </li></ul> | Cálculo Diferencial e Integral 3
-|<ul><li> - [x] </li></ul> | [Estruturas de Dados e Algoritmos]
+|<ul><li> - [x] </li></ul> | [Estruturas de Dados e Algoritmos](https://github.com/reidnersousa/IFB_Estrutura-de-Dados)
 |<ul><li> - [x] </li></ul> | Física para Computação
 |<ul><li> - [x] </li></ul> | Metodologia Científica
 |<ul><li> - [x] </li></ul> | [Programação de Computadores 2]
