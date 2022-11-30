@@ -35,7 +35,7 @@
 | Concluído | Disciplina |
 |:---------:|------------|
 |<ul><li> - [x] </li></ul> | [Banco de Dados 1]
-|<ul><li> - [x] </li></ul> | Cálculo Diferencial e Integral 3
+|<ul><li> - [ ] </li></ul> | Cálculo Diferencial e Integral 3
 |<ul><li> - [x] </li></ul> | [Estruturas de Dados e Algoritmos]
 |<ul><li> - [x] </li></ul> | Física para Computação
 |<ul><li> - [x] </li></ul> | Metodologia Científica
@@ -49,15 +49,15 @@
 |<ul><li> - [x] </li></ul> | Engenharia de Software 1
 |<ul><li> - [x] </li></ul> | [Programação de Computadores 3]
 |<ul><li> - [x] </li></ul> | Psicologia da Educação
-|<ul><li> - [x] </li></ul> | Sistemas Operacionais
+|<ul><li> - [ ] </li></ul> | Sistemas Operacionais
 |<ul><li> - [x] </li></ul> | Teoria da Computação
 
 ### 5º Semestre
 
 | Concluído | Disciplina |
 |:---------:|------------|
-|<ul><li> - [x] </li></ul> | [Análise de Algoritmos]
-|<ul><li> - [x] </li></ul> | Arquitretura de Computadores 2
+|<ul><li> - [ ] </li></ul> | [Análise de Algoritmos]
+|<ul><li> - [ ] </li></ul> | Arquitretura de Computadores 2
 |<ul><li> - [x] </li></ul> | [Banco de Dados 2]
 |<ul><li> - [x] </li></ul> | Engenharia de Software 2
 |<ul><li> - [x] </li></ul> | [Inteligência Computacional]
@@ -92,7 +92,7 @@
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | Empreendendorismo
 |<ul><li> - [ ] </li></ul> | Estágio Supervisionado 2
-|<ul><li> - [ ] </li></ul> | Optativa 3
+|<ul><li> - [x] </li></ul> | Optativa 3
 |<ul><li> - [ ] </li></ul> | Optativa 4
 |<ul><li> - [ ] </li></ul> | Segurança da Computação
 |<ul><li> - [ ] </li></ul> | Trabalho de Conclusão de Curso
