@@ -26,7 +26,7 @@
 |<ul><li> - [x] </li></ul> | Cálculo Diferencial e Integral 2
 |<ul><li> - [ ] </li></ul> | [Cálculo Numérico]
 |<ul><li> - [x] </li></ul> | Fundamentos da Educação
-|<ul><li> - [ ] </li></ul> | Inglês Técnico
+|<ul><li> - [x] </li></ul> | Inglês Técnico
 |<ul><li> - [x] </li></ul> | Matemática Discreta
 |<ul><li> - [x] </li></ul> | [Programação de Computadores 1]
 
