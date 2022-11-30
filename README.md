@@ -1,1 +1,1 @@
-# IFB-ci-ncias-da-computa-o
+# IFB-ciências-da-computacão
