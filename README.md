@@ -11,7 +11,7 @@
 | Concluído | Disciplina |
 |:---------:|------------|
 |<ul><li> - [x] </li></ul> | Álgebra Linear
-|<ul><li> - [x] </li></ul> | [Algoritmos e Programação de Computadores](https://github.com/henrique-tavares/IFB-Algoritmos-e-Programacao-de-Computadores)
+|<ul><li> - [x] </li></ul> | [Algoritmos e Programação de Computadores](https://github.com/reidnersousa/IFB-PC1)
 |<ul><li> - [x] </li></ul> | Cálculo Diferencial e Integral 1
 |<ul><li> - [x] </li></ul> | Cultura e Sociedade
 |<ul><li> - [x] </li></ul> | Leitura e Produção de Textos
