@@ -68,11 +68,11 @@
 | Concluído | Disciplina |
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | [Computação Gráfica]
-|<ul><li> - [ ] </li></ul> | Interação Humano-Computador
-|<ul><li> - [ ] </li></ul> | Linguagens Formais e Autômatos
-|<ul><li> - [ ] </li></ul> | Paradigmas de Programação
-|<ul><li> - [ ] </li></ul> | Redes de Computadores 2
-|<ul><li> - [ ] </li></ul> | Teoria dos Grafos
+|<ul><li> - [x] </li></ul> | Interação Humano-Computador
+|<ul><li> - [x] </li></ul> | Linguagens Formais e Autômatos
+|<ul><li> - [x] </li></ul> | Paradigmas de Programação
+|<ul><li> - [x] </li></ul> | Redes de Computadores 2
+|<ul><li> - [x] </li></ul> | Teoria dos Grafos
 |<ul><li> - [ ] </li></ul> | [Processamento Digital de Imagens (Optativa)]
 
 ### 7º Semestre
@@ -81,7 +81,7 @@
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | Compiladores
 |<ul><li> - [ ] </li></ul> | Estágio Supervisionado 1
-|<ul><li> - [ ] </li></ul> | [Introdução à Bioinfomática (Optativa)]
+|<ul><li> - [ ] </li></ul> | [Desenvolvimento mobile Flutter(Dart) (Optativa)](https://github.com/reidnersousa/IFB_Optativa_1_2023_Flutter)
 |<ul><li> - [ ] </li></ul> | Optativa 2
 |<ul><li> - [ ] </li></ul> | Projeto de Conclusão de Curso
 |<ul><li> - [ ] </li></ul> | Sistemas Multimedia
