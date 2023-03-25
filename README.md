@@ -68,23 +68,22 @@
 | Concluído | Disciplina |
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | [Computação Gráfica]
-|<ul><li> - [x] </li></ul> | Interação Humano-Computador
+|<ul><li> - [x] </li></ul> | [Interação Humano-Computador](https://www.figma.com/file/TXuZ6I5ioT74IDYhhl9lmS/Trabalho-IHC?node-id=0%3A1&t=bhqyWrLnoOREyGu7-1)
 |<ul><li> - [x] </li></ul> | Linguagens Formais e Autômatos
-|<ul><li> - [x] </li></ul> | Paradigmas de Programação
+|<ul><li> - [x] </li></ul> | [Paradigmas de Programação](https://github.com/reidnersousa/Paradigmas-de-Programa-o-Projeto1)
 |<ul><li> - [x] </li></ul> | Redes de Computadores 2
-|<ul><li> - [x] </li></ul> | Teoria dos Grafos
-|<ul><li> - [ ] </li></ul> | [Processamento Digital de Imagens (Optativa)]
+|<ul><li> - [x] </li></ul> | [Teoria dos Grafos](https://github.com/reidnersousa/IFB-Teoria_dos_Grafos)
 
 ### 7º Semestre
 
 | Concluído | Disciplina |
 |:---------:|------------|
-|<ul><li> - [ ] </li></ul> | Compiladores
+|<ul><li> - [ ] </li></ul> | [Compiladores](https://github.com/reidnersousa/IFB_Compiladores_2023)
 |<ul><li> - [ ] </li></ul> | Estágio Supervisionado 1
 |<ul><li> - [ ] </li></ul> | [Desenvolvimento mobile Flutter(Dart) (Optativa)](https://github.com/reidnersousa/IFB_Optativa_1_2023_Flutter)
-|<ul><li> - [ ] </li></ul> | Optativa 2
+|<ul><li> - [ ] </li></ul> | [Desenvolvimento mobile React-Native(JavaScricpt)(Optativa 2)](https://github.com/reidnersousa/IFB_Optativa_2_2023_React-Native)
 |<ul><li> - [ ] </li></ul> | Projeto de Conclusão de Curso
-|<ul><li> - [ ] </li></ul> | Sistemas Multimedia
+|<ul><li> - [ ] </li></ul> | [Sistemas multimídia]()
 
 ### 8º Semestre
 
@@ -92,7 +91,7 @@
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | Empreendendorismo
 |<ul><li> - [ ] </li></ul> | Estágio Supervisionado 2
-|<ul><li> - [x] </li></ul> | Optativa 3
+|<ul><li> - [x] </li></ul> | [Desenvolvimento Web Moderno (Optativa III)]
 |<ul><li> - [ ] </li></ul> | Optativa 4
 |<ul><li> - [ ] </li></ul> | Segurança da Computação
 |<ul><li> - [ ] </li></ul> | Trabalho de Conclusão de Curso
