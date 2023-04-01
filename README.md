@@ -45,7 +45,7 @@
 
 | Concluído | Disciplina |
 |:---------:|------------|
-|<ul><li> - [x] </li></ul> | [Circuitos Digitais]
+|<ul><li> - [ ] </li></ul> | [Circuitos Digitais]
 |<ul><li> - [x] </li></ul> | Engenharia de Software 1
 |<ul><li> - [x] </li></ul> | [Programação de Computadores 3]
 |<ul><li> - [x] </li></ul> | Psicologia da Educação
@@ -57,13 +57,13 @@
 | Concluído | Disciplina |
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | [Análise de Algoritmos]
-|<ul><li> - [ ] </li></ul> | Arquitretura de Computadores 2
+|<ul><li> - [ ] </li></ul> | [Arquitretura de Computadores 2] (https://github.com/reidnersousa/IFB_Arquitetura-de-Computadores-II_2023-1)
 |<ul><li> - [x] </li></ul> | [Banco de Dados 2]
 |<ul><li> - [x] </li></ul> | Engenharia de Software 2
 |<ul><li> - [x] </li></ul> | [Inteligência Computacional]
 |<ul><li> - [x] </li></ul> | Redes de Computadores 1
 
-### 6º Semestre (Atual)
+### 6º Semestre 
 
 | Concluído | Disciplina |
 |:---------:|------------|
@@ -74,7 +74,7 @@
 |<ul><li> - [x] </li></ul> | Redes de Computadores 2
 |<ul><li> - [x] </li></ul> | [Teoria dos Grafos](https://github.com/reidnersousa/IFB-Teoria_dos_Grafos)
 
-### 7º Semestre
+### 7º Semestre   (Atual)
 
 | Concluído | Disciplina |
 |:---------:|------------|
@@ -83,7 +83,7 @@
 |<ul><li> - [ ] </li></ul> | [Desenvolvimento mobile Flutter(Dart) (Optativa)](https://github.com/reidnersousa/IFB_Optativa_1_2023_Flutter)
 |<ul><li> - [ ] </li></ul> | [Desenvolvimento mobile React-Native(JavaScricpt)(Optativa 2)](https://github.com/reidnersousa/IFB_Optativa_2_2023_React-Native)
 |<ul><li> - [ ] </li></ul> | Projeto de Conclusão de Curso
-|<ul><li> - [ ] </li></ul> | [Sistemas multimídia]()
+|<ul><li> - [ ] </li></ul> | [Sistemas multimídia](https://github.com/reidnersousa/IFB_Sistema-Multim-dia_2023-1)
 
 ### 8º Semestre
 
