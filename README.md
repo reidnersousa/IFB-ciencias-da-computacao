@@ -93,5 +93,5 @@
 |<ul><li> - [ ] </li></ul> | Estágio Supervisionado 2
 |<ul><li> - [x] </li></ul> | [Desenvolvimento Web Moderno (Optativa III)]
 |<ul><li> - [ ] </li></ul> | [Machine-Learning(Optativa 3)](https://github.com/reidnersousa/IFB_OPT3_Machine-Learning_2023-2)
-|<ul><li> - [ ] </li></ul> | Segurança da Computação
+|<ul><li> - [ ] </li></ul> | [Segurança da Computação](https://github.com/reidnersousa/IFB_Seguranca_2023-2)
 |<ul><li> - [ ] </li></ul> | Trabalho de Conclusão de Curso
