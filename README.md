@@ -56,8 +56,8 @@
 
 | Concluído | Disciplina |
 |:---------:|------------|
-|<ul><li> - [ ] </li></ul> | [Análise de Algoritmos]
-|<ul><li> - [x] </li></ul> | [Arquitretura de Computadores 2] (https://github.com/reidnersousa/IFB_Arquitetura-de-Computadores-II_2023-1)
+|<ul><li> - [ ] </li></ul> | [Análise de Algoritmos](https://github.com/reidnersousa/IFB_Analise_Algoritmo_2024)
+|<ul><li> - [x] </li></ul> | [Arquitretura de Computadores 2](https://github.com/reidnersousa/IFB_Arquitetura-de-Computadores-II_2023-1)
 |<ul><li> - [x] </li></ul> | [Banco de Dados 2]
 |<ul><li> - [x] </li></ul> | Engenharia de Software 2
 |<ul><li> - [x] </li></ul> | [Inteligência Computacional]
