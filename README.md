@@ -35,7 +35,7 @@
 | Concluído | Disciplina |
 |:---------:|------------|
 |<ul><li> - [x] </li></ul> | [Banco de Dados 1]
-|<ul><li> - [ ] </li></ul> | Cálculo Diferencial e Integral 3
+|<ul><li> - [x] </li></ul> | Cálculo Diferencial e Integral 3
 |<ul><li> - [x] </li></ul> | [Estruturas de Dados e Algoritmos](https://github.com/reidnersousa/IFB_Estrutura-de-Dados)
 |<ul><li> - [x] </li></ul> | Física para Computação
 |<ul><li> - [x] </li></ul> | Metodologia Científica
@@ -56,7 +56,7 @@
 
 | Concluído | Disciplina |
 |:---------:|------------|
-|<ul><li> - [ ] </li></ul> | [Análise de Algoritmos](https://github.com/reidnersousa/IFB_Analise_Algoritmo_2024)
+|<ul><li> - [x] </li></ul> | [Análise de Algoritmos](https://github.com/reidnersousa/IFB_Analise_Algoritmo_2024)
 |<ul><li> - [x] </li></ul> | [Arquitretura de Computadores 2](https://github.com/reidnersousa/IFB_Arquitetura-de-Computadores-II_2023-1)
 |<ul><li> - [x] </li></ul> | [Banco de Dados 2]
 |<ul><li> - [x] </li></ul> | Engenharia de Software 2
@@ -82,7 +82,7 @@
 |<ul><li> - [ ] </li></ul> | Estágio Supervisionado 1
 |<ul><li> - [x] </li></ul> | [Desenvolvimento mobile Flutter(Dart) (Optativa)](https://github.com/reidnersousa/IFB_Optativa_1_2023_Flutter)
 |<ul><li> - [x] </li></ul> | [Desenvolvimento mobile React-Native(Expo)(Optativa 2)](https://github.com/reidnersousa/IFB_Optativa_2_2023_React-Native)
-|<ul><li> - [ ] </li></ul> | Projeto de Conclusão de Curso
+|<ul><li> - [x] </li></ul> | Projeto de Conclusão de Curso
 |<ul><li> - [x] </li></ul> | [Sistemas multimídia](https://github.com/reidnersousa/IFB_Sistema-Multim-dia_2023-1)
 
 ### 8º Semestre
