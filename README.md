@@ -1,6 +1,6 @@
 # IFB-ciências-da-computacão
 
-![faculdade-logo](https://github.com/reidnersousa/IFB-ciencias-da-computacao/blob/main/Taguatinga%20(vrt).pdf)
+![faculdade-logo](https://ifb.edu.br/attachments/article/14333/MarcasIFB_sigla.pdf)
 
 # Bacharelado em Ciência da Computação
 
