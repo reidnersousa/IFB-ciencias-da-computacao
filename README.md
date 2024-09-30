@@ -1,6 +1,6 @@
 # IFB-ciências-da-computacão
 
-![faculdade-logo](https://doity.com.br/media/doity/eventos/evento-13392-logo_organizador.png)
+![faculdade-logo](https://github.com/reidnersousa/IFB-ciencias-da-computacao/blob/main/Taguatinga%20(vrt).pdf)
 
 # Bacharelado em Ciência da Computação
 
