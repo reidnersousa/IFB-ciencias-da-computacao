@@ -1,6 +1,7 @@
 # IFB-ciências-da-computacão
 
-![faculdade-logo](https://ifb.edu.br/attachments/article/14333/MarcasIFB_sigla.pdf)
+![faculdade-logo](
+https://camo.githubusercontent.com/186cc7277de452169a290229ae214391e341568425b4a24ce5302415021fef02/68747470733a2f2f646f6974792e636f6d2e62722f6d656469612f646f6974792f6576656e746f732f6576656e746f2d31333339322d6c6f676f5f6f7267616e697a61646f722e706e67)
 
 # Bacharelado em Ciência da Computação
 
