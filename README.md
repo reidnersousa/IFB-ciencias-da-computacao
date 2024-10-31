@@ -50,7 +50,7 @@ https://camo.githubusercontent.com/186cc7277de452169a290229ae214391e341568425b4a
 |<ul><li> - [x] </li></ul> | Engenharia de Software 1
 |<ul><li> - [x] </li></ul> | Programação de Computadores 3
 |<ul><li> - [x] </li></ul> | Psicologia da Educação
-|<ul><li> - [ ] </li></ul> | Sistemas Operacionais
+|<ul><li> - [ ] </li></ul> | Sistemas Operacionais[(https://github.com/reidnersousa/IFB_SO_2024_2/tree/main)]
 |<ul><li> - [x] </li></ul> | Teoria da Computação
 
 ### 5º Semestre
