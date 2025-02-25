@@ -25,7 +25,7 @@ https://camo.githubusercontent.com/186cc7277de452169a290229ae214391e341568425b4a
 |:---------:|------------|
 |<ul><li> - [x] </li></ul> | Arquitetura de Computadores 1
 |<ul><li> - [x] </li></ul> | Cálculo Diferencial e Integral 2
-|<ul><li> - [ ] </li></ul> | Cálculo Numérico
+|<ul><li> - [x] </li></ul> | Cálculo Numérico
 |<ul><li> - [x] </li></ul> | Fundamentos da Educação
 |<ul><li> - [x] </li></ul> | Inglês Técnico
 |<ul><li> - [x] </li></ul> | Matemática Discreta
@@ -50,7 +50,7 @@ https://camo.githubusercontent.com/186cc7277de452169a290229ae214391e341568425b4a
 |<ul><li> - [x] </li></ul> | Engenharia de Software 1
 |<ul><li> - [x] </li></ul> | Programação de Computadores 3
 |<ul><li> - [x] </li></ul> | Psicologia da Educação
-|<ul><li> - [ ] </li></ul> | [Sistemas Operacionais](https://github.com/reidnersousa/IFB_SO_2024_2/tree/main)
+|<ul><li> - [x] </li></ul> | [Sistemas Operacionais](https://github.com/reidnersousa/IFB_SO_2024_2/tree/main)
 |<ul><li> - [x] </li></ul> | Teoria da Computação
 
 ### 5º Semestre
@@ -80,7 +80,7 @@ https://camo.githubusercontent.com/186cc7277de452169a290229ae214391e341568425b4a
 | Concluído | Disciplina |
 |:---------:|------------|
 |<ul><li> - [x] </li></ul> | [Compiladores](https://github.com/reidnersousa/IFB_Compiladores_2023)
-|<ul><li> - [ ] </li></ul> | Estágio Supervisionado 1
+|<ul><li> - [x] </li></ul> | Estágio Supervisionado 1
 |<ul><li> - [x] </li></ul> | [Desenvolvimento mobile Flutter(Dart) (Optativa)](https://github.com/reidnersousa/IFB_Optativa_1_2023_Flutter)
 |<ul><li> - [x] </li></ul> | [Desenvolvimento mobile React-Native(Expo)(Optativa 2)](https://github.com/reidnersousa/IFB_Optativa_2_2023_React-Native)
 |<ul><li> - [x] </li></ul> | Projeto de Conclusão de Curso
@@ -95,4 +95,4 @@ https://camo.githubusercontent.com/186cc7277de452169a290229ae214391e341568425b4a
 |<ul><li> - [x] </li></ul> | Desenvolvimento Web Moderno (Optativa III)
 |<ul><li> - [x] </li></ul> | [Machine-Learning(Optativa 3)](https://github.com/reidnersousa/IFB_OPT3_Machine-Learning_2023-2)
 |<ul><li> - [x] </li></ul> | [Segurança da Computação](https://github.com/reidnersousa/IFB_Seguranca_2023-2)
-|<ul><li> - [ ] </li></ul> | Trabalho de Conclusão de Curso
+|<ul><li> - [x] </li></ul> | Trabalho de Conclusão de Curso
